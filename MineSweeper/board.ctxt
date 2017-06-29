@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=size\ mines
+comment0.target=board(int,\ int)
+comment1.params=x1\ y1
+comment1.target=void\ initialize(int,\ int)
+comment2.params=
+comment2.target=void\ main()
+comment3.params=x\ y
+comment3.target=void\ flagged(int,\ int)
+comment4.params=x\ y
+comment4.target=void\ clicked(int,\ int)
+comment5.params=t
+comment5.target=int\ minesLeft(boolean)
+comment6.params=
+comment6.target=void\ reset()
+numComments=7

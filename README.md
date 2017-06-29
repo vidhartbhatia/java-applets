@@ -7,7 +7,7 @@ Using the mouse you can select tiles (Left CLick to flag). The game has three di
 
 Tank Battle:
 Made it to learn how to let two players control things on screen at the same time.
-![Demo](https://github.com/vidhartbhatia/java-applets/blob/master/TankBAttle/TankBattleDemo.gif)
+![Demo](https://github.com/vidhartbhatia/java-applets/blob/master/TankBattle/TankBattleDemo.gif)
 
 Flappy Bird:
 ![Demo](https://github.com/vidhartbhatia/java-applets/blob/master/FlappyBird/FlappyBirdDemo.gif)
